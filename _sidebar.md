@@ -1,24 +1,27 @@
-<!-- 请勿添加产品标题，标题行将由系统自动增加，名称将于您申请邮件提供的仓库名称一致 -->
 
-* [概览](README.md)
-* 产品介绍   <!-- 以下是参考的目录模版，旨在建议产品文档应该包含的内容模块。实际章节划分可根据实际内容进行调整 -->
-   * [什么是云主机](相对链接)
-   * [功能与优势](相对链接)
-   * [应用场景](相对链接)
-* 计费
-   * [计费模式](相对链接)
-   * [定价表](相对链接)
-   * [配置变更](相对链接)
-   * [续费](相对链接)
-   * [退款](相对链接)
-* 注意事项与使用限制
-   * [注意事项描述](相对链接)
-* 创建第一台云主机
-   * [创建资源](相对链接)
+* [概览](/ugn/README)
+* 产品简介
+    * [什么是UGN](/ugn/intro/ugn)
+    * [使用限制](/ugn/intro/limit)
+* 购买指南
+    * [产品定价](/ugn/fast/price)
 * 操作指南
-   * [创建](相对链接)
-   * [管理](相对链接)
+    * 云联网
+        * [创建云联网](/ugn/guide/ugninsatance/createugn)
+        * [删除云联网](/ugn/guide/ugninsatance/deleteugn)
+        * [编辑云联网](/ugn/guide/ugninsatance/editugn)
+    * 关联实例
+        * [绑定实例](/ugn/guide/vserver/bindinstance)
+        * [解绑实例](/ugn/guide/vserver/unbindinstance)
+    * 带宽包
+        * [创建带宽包](/ugn/guide/bandwidthpackge/createbandwidthpackge)
+        * [删除带宽包](/ugn/guide/bandwidthpackge/deletebandwidthpackge)
+        * [编辑带宽包](/ugn/guide/bandwidthpackge/editbandwidthpackge)
+        * [带宽包回收](/ugn/guide/bandwidthpackge/recylebandwidthpackge)
+    * 路由信息
+        * [发布路由](/ugn/guide/routerule/addrule)
+        * [撤回路由](/ugn/guide/routerule/deleterule)
+    * 监控指标
+        * [获取监控指标](/ugn/guide/ugnmonitor/getmonitoring)
 * 常见问题
-   * 场景相关 <!-- 平台已支持三级及以下目录收起展开，为确保点击区域充分，包含三级目录的二级标题请勿添加链接 -->
-      * [问题描述](相对链接)
-* [词汇表](_glossary.md)
+   

@@ -17,13 +17,11 @@
         * [创建带宽包](/ugn/guide/bandwidthpackge/createbandwidthpackge)
         * [删除带宽包](/ugn/guide/bandwidthpackge/deletebandwidthpackge)
         * [编辑带宽包](/ugn/guide/bandwidthpackge/editbandwidthpackge)
-        * [带宽包回收](/ugn/guide/bandwidthpackge/recyclebandwidthpackge)
     * 路由信息
         * [发布路由](/ugn/guide/routerule/addrule)
         * [撤回路由](/ugn/guide/routerule/deleterule)
     * 监控指标
         * [获取监控指标](/ugn/guide/ugnmonitor/getmonitoring)
-* 常见问题
    
 
 

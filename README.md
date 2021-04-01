@@ -3,15 +3,13 @@
 * 产品简介
     * [什么是UGN](/ugn/intro/ugn)
     * [使用限制](/ugn/intro/limit)
-* 购买指南
-    * [产品定价](/ugn/fast/price)
 * 操作指南
     * 云联网
-        * [创建云联网](/ugn/guide/ugninsatance/createugn)
-        * [删除云联网](/ugn/guide/ugninsatance/deleteugn)
-        * [编辑云联网](/ugn/guide/ugninsatance/editugn)
+        * [创建云联网](/ugn/guide/ugninstance/createugn)
+        * [删除云联网](/ugn/guide/ugninstance/deleteugn)
+        * [编辑云联网](/ugn/guide/ugninstance/editugn)
     * 关联实例
-        * [绑定实例](/ugn/guide/networkinstacne/bindinstance)
+        * [绑定实例](/ugn/guide/networkinstance/bindinstance)
         * [解绑实例](/ugn/guide/networkinstance/unbindinstance)
     * 带宽包
         * [创建带宽包](/ugn/guide/bandwidthpackge/createbandwidthpackge)
